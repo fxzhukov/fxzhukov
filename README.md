@@ -1,4 +1,6 @@
-### Hi there 👋
+### Me on Codewars (top 1.5%)
+
+[![](https://www.codewars.com/users/fxzhukov/badges/large)](https://www.codewars.com/users/fxzhukov)
 
 <!--
 **fxzhukov/fxzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
