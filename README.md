@@ -2,6 +2,8 @@
 
 [![](https://www.codewars.com/users/fxzhukov/badges/large)](https://www.codewars.com/users/fxzhukov)
 
+![](https://komarev.com/ghpvc/?username=fxzhukov)
+
 <!--
 **fxzhukov/fxzhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
