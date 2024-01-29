@@ -1,4 +1,4 @@
-### Me on Codewars (top 1.5%)
+### Me on Codewars (top 1%)
 
 [![](https://www.codewars.com/users/fxzhukov/badges/large)](https://www.codewars.com/users/fxzhukov)
 
